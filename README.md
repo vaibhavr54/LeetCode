@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vaibhavr54/LeetCode/tree/master/0050-powx-n) |
+| [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
