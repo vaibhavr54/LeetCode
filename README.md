@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0137-single-number-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
