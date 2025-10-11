@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vaibhavr54/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/vaibhavr54/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavr54/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0137-single-number-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vaibhavr54/LeetCode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
