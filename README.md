@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavr54/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavr54/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/vaibhavr54/LeetCode/tree/master/0792-binary-search) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vaibhavr54/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
