@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavr54/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/vaibhavr54/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/vaibhavr54/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavr54/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/vaibhavr54/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/vaibhavr54/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
