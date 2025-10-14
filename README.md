@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaibhavr54/LeetCode/tree/master/0125-valid-palindrome) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Memoization
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
