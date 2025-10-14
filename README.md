@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhavr54/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/vaibhavr54/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vaibhavr54/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/vaibhavr54/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavr54/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vaibhavr54/LeetCode/tree/master/0125-valid-palindrome) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
