@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhavr54/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2102-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
