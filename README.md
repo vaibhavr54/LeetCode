@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vaibhavr54/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/vaibhavr54/LeetCode/tree/master/0567-permutation-in-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vaibhavr54/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vaibhavr54/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaibhavr54/LeetCode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/vaibhavr54/LeetCode/tree/master/0567-permutation-in-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vaibhavr54/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
