@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavr54/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/vaibhavr54/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vaibhavr54/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
+| [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavr54/LeetCode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vaibhavr54/LeetCode/tree/master/0567-permutation-in-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
