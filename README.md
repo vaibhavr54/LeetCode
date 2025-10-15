@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavr54/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vaibhavr54/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/vaibhavr54/LeetCode/tree/master/0046-permutations) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavr54/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vaibhavr54/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vaibhavr54/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vaibhavr54/LeetCode/tree/master/0125-valid-palindrome) |
