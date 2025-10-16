@@ -3,11 +3,12 @@ public:
     string defangIPaddr(string address) {
         int n = address.size();
         string result;
-        for (int i=0; i<n; i++) {
-            if (address[i] == '.') {
+
+        for (char ch : address) {
+            if (ch == '.') {
                 result += "[.]";
             } else {
-                result += address[i];
+                result += ch;
             }
         }
         return result;
