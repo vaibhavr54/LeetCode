@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vaibhavr54/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/vaibhavr54/LeetCode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/vaibhavr54/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/vaibhavr54/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vaibhavr54/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavr54/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/vaibhavr54/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vaibhavr54/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vaibhavr54/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
