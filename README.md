@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vaibhavr54/LeetCode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/vaibhavr54/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/vaibhavr54/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vaibhavr54/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vaibhavr54/LeetCode/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Memoization
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/vaibhavr54/LeetCode/tree/master/1217-relative-sort-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vaibhavr54/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
