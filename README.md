@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vaibhavr54/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/vaibhavr54/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/vaibhavr54/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2491-smallest-even-multiple](https://github.com/vaibhavr54/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vaibhavr54/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vaibhavr54/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -197,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vaibhavr54/LeetCode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/vaibhavr54/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
