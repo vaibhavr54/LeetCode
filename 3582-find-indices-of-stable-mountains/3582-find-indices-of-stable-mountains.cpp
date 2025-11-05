@@ -4,11 +4,10 @@ public:
         int n = height.size();
         vector<int> result;
 
-        for (int i=1; i<n; i++) {
-            if (height[i-1] > threshold) {
+        for (int i=1; i<n; i++)
+            if (height[i-1] > threshold) 
                 result.push_back(i);
-            }
-        }
+
         return result;
     }
 };
