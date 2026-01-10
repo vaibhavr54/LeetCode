@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavr54/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/vaibhavr54/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavr54/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavr54/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vaibhavr54/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/vaibhavr54/LeetCode/tree/master/0461-hamming-distance) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
