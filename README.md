@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/vaibhavr54/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vaibhavr54/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vaibhavr54/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vaibhavr54/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vaibhavr54/LeetCode/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/vaibhavr54/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibhavr54/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
