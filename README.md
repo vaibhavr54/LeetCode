@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vaibhavr54/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/vaibhavr54/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vaibhavr54/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
