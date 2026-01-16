@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vaibhavr54/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/vaibhavr54/LeetCode/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/vaibhavr54/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1217-relative-sort-array](https://github.com/vaibhavr54/LeetCode/tree/master/1217-relative-sort-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhavr54/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vaibhavr54/LeetCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaibhavr54/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavr54/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/vaibhavr54/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/vaibhavr54/LeetCode/tree/master/0567-permutation-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/vaibhavr54/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vaibhavr54/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
