@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vaibhavr54/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaibhavr54/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vaibhavr54/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/vaibhavr54/LeetCode/tree/master/0204-count-primes) |
