@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vaibhavr54/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/vaibhavr54/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/vaibhavr54/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vaibhavr54/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0090-subsets-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vaibhavr54/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaibhavr54/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vaibhavr54/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/vaibhavr54/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/vaibhavr54/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vaibhavr54/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/vaibhavr54/LeetCode/tree/master/0367-valid-perfect-square) |
