@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/vaibhavr54/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2058-concatenation-of-array](https://github.com/vaibhavr54/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vaibhavr54/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavr54/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/vaibhavr54/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/vaibhavr54/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/vaibhavr54/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
