@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vaibhavr54/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/vaibhavr54/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/vaibhavr54/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/vaibhavr54/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavr54/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhavr54/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/vaibhavr54/LeetCode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/vaibhavr54/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/vaibhavr54/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1217-relative-sort-array](https://github.com/vaibhavr54/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/vaibhavr54/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhavr54/LeetCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/vaibhavr54/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/vaibhavr54/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavr54/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/vaibhavr54/LeetCode/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/vaibhavr54/LeetCode/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/vaibhavr54/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vaibhavr54/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
