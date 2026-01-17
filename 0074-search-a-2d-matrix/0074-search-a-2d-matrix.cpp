@@ -28,7 +28,7 @@ public:
 
             if (target >= matrix[mid][0] && target <= matrix[mid][n-1]) {
                 return searchInRow(matrix, mid, target);
-            } else if (target > matrix[mid][m-1]) {
+            } else if (target > matrix[mid][n-1]) {
                 st = mid+1;
             } else {
                 end = mid-1;
