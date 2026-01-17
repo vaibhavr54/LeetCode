@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vaibhavr54/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/vaibhavr54/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavr54/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vaibhavr54/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vaibhavr54/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0090-subsets-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavr54/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavr54/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavr54/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/vaibhavr54/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vaibhavr54/LeetCode/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vaibhavr54/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
