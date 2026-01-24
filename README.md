@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhavr54/LeetCode/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/vaibhavr54/LeetCode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -279,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vaibhavr54/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/vaibhavr54/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vaibhavr54/LeetCode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vaibhavr54/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vaibhavr54/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
