@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibhavr54/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavr54/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/vaibhavr54/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhavr54/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavr54/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/vaibhavr54/LeetCode/tree/master/0561-array-partition) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaibhavr54/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhavr54/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhavr54/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/vaibhavr54/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavr54/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vaibhavr54/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/vaibhavr54/LeetCode/tree/master/0645-set-mismatch) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhavr54/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/vaibhavr54/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/vaibhavr54/LeetCode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vaibhavr54/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vaibhavr54/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/vaibhavr54/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
