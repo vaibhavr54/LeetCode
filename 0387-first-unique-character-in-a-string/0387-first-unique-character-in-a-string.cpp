@@ -1,17 +1,17 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
+        unordered_map<char, int> map;
+        queue<int> q;
         int n = s.size();
-        unordered_map<char, int> mp;
-        queue<char> q;
 
         for (int i=0; i<n; i++) {
-            if (mp.find(s[i]) == mp.end()) {
+            if (map.find(s[i]) == map.end()) {
                 q.push(i);
             }
-            mp[s[i]]++;
-
-            while (q.size() > 0 && mp[s[q.front()]] > 1) {
+            map[s[i]]++;
+            
+            while (q.size() > 0 && map[s[q.front()]] > 1) {
                 q.pop();
             }
         }
