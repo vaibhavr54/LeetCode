@@ -11,7 +11,7 @@ public:
             }
             mp[s[i]]++;
 
-            while (!q.empty() && mp[s[q.front()]] > 1) {
+            while (q.size() > 0 && mp[s[q.front()]] > 1) {
                 q.pop();
             }
         }
