@@ -10,9 +10,10 @@ public:
                 q.push(i);
             }
             mp[s[i]]++;
-        }
-        while (!q.empty() && mp[s[q.front()]] > 1) {
-            q.pop();
+
+            while (!q.empty() && mp[s[q.front()]] > 1) {
+                q.pop();
+            }
         }
         return q.empty() ? -1 : q.front();
     }
